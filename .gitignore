@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+backend/venv/
+.env
+# Node
+frontend/node_modules/
+frontend/dist/
+# Model checkpoint is managed separately; do not accidentally commit large binaries
